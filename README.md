@@ -1,4 +1,4 @@
-## Faaaala dev, André Oliveira Aqui!
+## Hi, I am André 👋
 
 <div>
   
