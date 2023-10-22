@@ -10,7 +10,7 @@
 
 - 🏁 Tenho um forte interesse pela descoberta e aprecio enfrentar novos desafios
 - 🏅 Minha dedicação e capacidade de superação me conduziram a importantes realizações.
-- 🎓 Formado em Análise e desenvolvimento pela UNIP
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas pela UNIP
 - 🎓 Formado em Gestão da Tecnologia da Informação pela FATEC
 - 🧠 Estou ávido por aprender e acompanhar as últimas inovações tecnológicas.
 - 💼 Estou empenhado em alcançar o meu tão desejado objetivo!
