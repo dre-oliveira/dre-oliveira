@@ -1,36 +1,42 @@
-## Hi, I am André 👋
+<h1 align="center">Hi, I am André Oliveira 👋</h1>
 
-<div>
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=dre-oliveira&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dre-oliveira&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-<br>
+<p align="center">
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=dre-oliveira&color=blueviolet&label=👀+Profile+views">
+  </a>
+</p>
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Tecnologias que uso </h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    
-   </div>
-    
-  
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: dre.oliveira012@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/andr%C3%A9-oliveira-65003a15a/">
-      <img width="25" src="linkedin.svg">
-    </a>
-</div>
-<br>
-<br>
-<br>
+<h1>Sobre :raising_hand_man:</h1>
+
+- 🏁 Sou um grande curioso e adoro novos desafios
+- 🏅 Determinação e Resiliência me levaram à grandes conquistas
+- 🎓 Formado em Análise e desenvolvimento pela UNIP
+  🎓 Formado em Gestão da Tecnologia da Informação pela FATEC
+- 🧠 Sedento por conhecimento e por novas tecnologias
+- 💼 Em busca do meu sonhado <b>SIM</b>!
+
+<p>
+  <a href="hhttps://www.linkedin.com/in/dreoliveira"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:work.dreoliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
+
+
+<hr>
+
+<h3 align="left">GitHub Status 📈</h3>
+
+<p align="center">
+  <a href="#">
+    <img alt="Status do GitHub" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dre-oliveira&show_icons=true&theme=react">
+  </a>
+  <br />
+  <a href="#">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dre-oliveira&theme=react">
+  </a>
+</p>
+
+<hr>
+
 <h2 align="left">Front-End</h2>
 
 [![HTML][HTML-card]][HTML-url]
