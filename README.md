@@ -28,6 +28,9 @@
       <img width="25" src="linkedin.svg">
     </a>
 </div>
+<br>
+<br>
+<br>
 <h2 align="left">Front-End</h2>
 
 [![HTML][HTML-card]][HTML-url]
