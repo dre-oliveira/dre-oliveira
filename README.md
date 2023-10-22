@@ -8,12 +8,12 @@
 
 <h1>Sobre :raising_hand_man:</h1>
 
-- 🏁 Sou um grande curioso e adoro novos desafios
-- 🏅 Determinação e Resiliência me levaram à grandes conquistas
+- 🏁 Tenho um forte interesse pela descoberta e aprecio enfrentar novos desafios
+- 🏅 Minha dedicação e capacidade de superação me conduziram a importantes realizações.
 - 🎓 Formado em Análise e desenvolvimento pela UNIP
   🎓 Formado em Gestão da Tecnologia da Informação pela FATEC
-- 🧠 Sedento por conhecimento e por novas tecnologias
-- 💼 Em busca do meu sonhado <b>SIM</b>!
+- 🧠 Estou ávido por aprender e acompanhar as últimas inovações tecnológicas.
+- 💼 Estou empenhado em alcançar o meu tão desejado objetivo!
 
 <p>
   <a href="hhttps://www.linkedin.com/in/dreoliveira"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
