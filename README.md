@@ -33,6 +33,7 @@
   <a href="#">
     <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dre-oliveira&theme=react">
   </a>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dre-oliveira&layout=compact&theme=react" alt="rehlucena88's most languages"/>
 </p>
 
 <hr>
