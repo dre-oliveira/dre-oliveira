@@ -47,7 +47,7 @@
 [![TypeScript][TypeScript-card]][TypeScript-url]
 [![Vue.js][Vue.js-card]][Vue.js-url]
 [![Styled-Components][Styled-Components-card]][Styled-Components-url]
-[[![Sass][Sass-card]][Sass-url]]
+[![Sass][Sass-card]][Sass-url]
 
 
 <h2 align="left">Design</h2>
