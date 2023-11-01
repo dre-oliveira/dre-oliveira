@@ -79,8 +79,6 @@
 [Vue.js-card]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D
 [Vue.js-url]: https://vuejs.org/
 
-[SASS-card]: https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
 [HTML-card]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [HTML-url]: https://www.w3.org/html
 
