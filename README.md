@@ -46,7 +46,6 @@
 [![JavaScript][JavaScript-card]][JavaScript-url]
 [![TypeScript][TypeScript-card]][TypeScript-url]
 [![Vue.js][Vue.js-card]][Vue.js-url]
-[![Styled-Components][Styled-Components-card]][Styled-Components-url]
 [![Sass][Sass-card]][Sass-url]
 
 
