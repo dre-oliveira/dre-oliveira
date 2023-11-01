@@ -68,7 +68,6 @@
 <h2 align="left">Others</h2>
 
 [![Python][Python-card]][Python-url]
-[![Docker][Docker-card]][Docker-url]
 [![Git][Git-card]][Git-url]
 [![GitHub][GitHub]][GitHub-url]
 [![NPM][NPM-card]][NPM-url]
@@ -105,12 +104,6 @@
 
 [GitHub]: https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white
 [GitHub-url]: https://github.com
-
-[Docker-card]: https://img.shields.io/badge/Docker-1C90ED?style=for-the-badge&logo=docker&logoColor=white
-[Docker-url]: https://www.docker.com
-
-[Redux-card]: https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white
-[Redux-url]: https://redux.js.org
 
 [Shell-Script-card]: https://img.shields.io/badge/Shell_Script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white
 [Shell-Script-url]: https://www.shellscript.sh
