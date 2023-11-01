@@ -27,11 +27,11 @@
 
 <p align="center">
   <a href="#">
-    <img alt="Status do GitHub" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dre-oliveira&show_icons=true&theme=react">
+    <img alt="Status do GitHub" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dre-oliveira&show_icons=true&theme=vue">
   </a>
   <br />
   <a href="#">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dre-oliveira&theme=react">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dre-oliveira&theme=vue">
   </a>
   <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dre-oliveira&layout=compact&theme=vue" alt="rehlucena88's most languages"/>
 </p>
