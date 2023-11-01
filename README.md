@@ -47,7 +47,8 @@
 [![TypeScript][TypeScript-card]][TypeScript-url]
 [![Vue.js][Vue.js-card]][Vue.js-url]
 [![Styled-Components][Styled-Components-card]][Styled-Components-url]
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+[![Sass][Sass-card]][Sass-url]
+
 
 <h2 align="left">Design</h2>
 
