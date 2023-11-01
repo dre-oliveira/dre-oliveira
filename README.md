@@ -42,11 +42,12 @@
 
 [![HTML][HTML-card]][HTML-url]
 [![CSS][CSS-card]][CSS-url]
+[![Sass][Sass-card]][Sass-url]
 [![Bootstrap][Bootstrap-card]][Bootstrap-url]
 [![JavaScript][JavaScript-card]][JavaScript-url]
 [![TypeScript][TypeScript-card]][TypeScript-url]
 [![Vue.js][Vue.js-card]][Vue.js-url]
-[![Sass][Sass-card]][Sass-url]
+
 
 
 <h2 align="left">Design</h2>
