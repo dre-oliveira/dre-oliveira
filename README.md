@@ -27,109 +27,32 @@
 
 <p align="center">
   <a href="#">
-    <img alt="Status do GitHub" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dre-oliveira&show_icons=true&theme=react">
+    <img alt="Status do GitHub" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dre-oliveira&show_icons=true&theme=nightowl">
   </a>
   <br />
+  <p align="center">
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=dre-oliveira&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinniciusJesus&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+    </p>
   <a href="#">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dre-oliveira&theme=react">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dre-oliveira&theme=nightowl">
   </a>
   <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dre-oliveira&layout=compact&theme=react" alt="rehlucena88's most languages"/>
 </p>
 
 <hr>
 
-<h2 align="left">Front-End</h2>
+### 💻 &nbsp;Principais
+  <br/>
 
-[![HTML][HTML-card]][HTML-url]
-[![CSS][CSS-card]][CSS-url]
-[![Sass][Sass-card]][Sass-url]
-[![Bootstrap][Bootstrap-card]][Bootstrap-url]
-[![JavaScript][JavaScript-card]][JavaScript-url]
-[![TypeScript][TypeScript-card]][TypeScript-url]
-[![Vue.js][Vue.js-card]][Vue.js-url]
+![Flutter](https://img.shields.io/badge/FLUTTER-02569B.svg?&style=flat&logo=flutter&logoColor=white) 
+![Dart](https://img.shields.io/badge/DART-%230175C2.svg?&style=flat&logo=dart&logoColor=white)
+![GetX](https://img.shields.io/badge/GETX-%23121011.svg?&style=flat&logo=getx&logoColor=white) 
+![MobX](https://img.shields.io/badge/MOBX-%23121011.svg?&style=flat&logo=mobx&logoColor=white) 
+![AANDROID](https://img.shields.io/badge/ANDROID-6DB33F.svg?&style=flat&logo=ANDROIDt&logoColor=white)
+![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)
+![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)
 
+---
 
-
-<h2 align="left">Design</h2>
-
-[![Figma][Figma-card]][Figma-url]
-
-<h2 align="left">Group</h2>
-
-[![Slack][Slack-card]][Slack-url]
-[![Trello][Trello-card]][Trello-url]
-
-<h2 align="left">OS and Script</h2>
-
-[![Linux][Linux-card]][Linux-url]
-[![Ubuntu][Ubuntu-card]][Ubuntu-url]
-[![Shell_Script][Shell-Script-card]][Shell-Script-url]
-
-<h2 align="left">Others</h2>
-
-[![Python][Python-card]][Python-url]
-[![Git][Git-card]][Git-url]
-[![GitHub][GitHub]][GitHub-url]
-[![NPM][NPM-card]][NPM-url]
-
-[NPM-card]: https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
-[NPM-url]: https://docs.npmjs.com/about-npm
-
-[Vue.js-card]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D
-[Vue.js-url]: https://vuejs.org/
-
-[Sass-card]: https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
-[Sass-url]: https://sass-lang.com/
-
-[HTML-card]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-[HTML-url]: https://www.w3.org/html
-
-[CSS-card]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-[CSS-url]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
-
-[Bootstrap-card]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-
-[JavaScript-card]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-[JavaScript-url]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
-
-[TypeScript-card]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-[TypeScript-url]: https://www.typescriptlang.org/pt
-
-[Python-card]: https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
-[Python-url]: https://www.python.org
-
-[Git-card]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-[Git-url]: https://git-scm.com
-
-[GitHub]: https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white
-[GitHub-url]: https://github.com
-
-[Shell-Script-card]: https://img.shields.io/badge/Shell_Script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white
-[Shell-Script-url]: https://www.shellscript.sh
-
-[Linux-card]: https://img.shields.io/badge/Linux-EFBB21?style=for-the-badge&logo=linux&logoColor=000
-[Linux-url]: https://www.linux.org
-
-[Ubuntu-card]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
-[Ubuntu-url]: https://ubuntu.com
-
-[Figma-card]: https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
-[Figma-url]: https://www.figma.com
-
-[Slack-card]: https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
-[Slack-url]: https://slack.com/intl/pt-br
-
-[ESLint-card]: https://img.shields.io/badge/Eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white
-[ESLint-url]: https://eslint.org
-
-[Prettier-card]: https://img.shields.io/badge/Prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E
-[Prettier-url]: https://prettier.io
-
-[Stylelint-card]: https://img.shields.io/badge/Stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white
-[Stylelint-url]: https://stylelint.io
-
-[Trello-card]: https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
-[Trello-url]: https://trello.com/pt-BR
   
 ![Snake animation](https://github.com/dre-oliveira/dre-oliveira/blob/output/github-contribution-grid-snake.svg)
