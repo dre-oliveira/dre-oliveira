@@ -19,9 +19,7 @@
   <a href="hhttps://www.linkedin.com/in/dreoliveira"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:work.dreoliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
-  <p align="center">
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dre-oliveira&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
-    </p>
+  
 
 <hr>
 
@@ -34,6 +32,10 @@
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=dre-oliveira&hide_border=true&theme=nightowl" />
+    </p>
+
+  <p align="center">
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dre-oliveira&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p>
     
 
