@@ -16,7 +16,7 @@
 - 💼 Estou empenhado em alcançar o meu tão desejado objetivo!
 
 <p>
-  <a href="hhttps://www.linkedin.com/in/dreoliveira"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="hhttps://www.linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:work.dreoliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
   
